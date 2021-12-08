@@ -7,7 +7,7 @@
 <li>Download a folder with files</li>
 <li>Open a project in the PyCharm integrated development environment </li>
 <li>Install Django: pip install django </li>
-< <li>Next, go to the folder: cd site var </li>
+<li>Next, go to the folder: cd sitevar </li>
 <li>Run the command: python manage.py runserver </li>
 </ul>
 The main page of the site will open
